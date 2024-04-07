@@ -1,0 +1,3 @@
+# SenseGrass Assignment
+# Objective
+Your task is to develop the Fintech app, focusing on integrating payment functionality and creating complex user interfaces (UI) for both the frontend (FE) and backend (BE) components. The backend should be built using Node.js, and the front end using React Native. Upon completion, you are required to submit your project on GitHub and provide a deployed version on Heroku or any cloud platform of your choice.
